@@ -1,0 +1,4 @@
+obj/base.c.o: src/base.c src/base.h src/main.h
+obj/game.c.o: src/game.c src/game.h src/main.h
+obj/main.c.o: src/main.c src/main.h src/base.h src/menu.h src/game.h
+obj/menu.c.o: src/menu.c src/main.h src/menu.h src/game.h
