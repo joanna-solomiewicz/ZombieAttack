@@ -2,10 +2,10 @@
 #include <allegro5/allegro_font.h>
 #include <allegro5/allegro_ttf.h>
 #include <allegro5/allegro_image.h>
-#include "base.h"
-#include "menu.h"
-#include "menu_base.h"
-#include "main.h"
+#include "headers/base.h"
+#include "headers/menu.h"
+#include "headers/menu_base.h"
+#include "headers/main.h"
 
 int main(int argc, char **argv)
 {

@@ -2,12 +2,12 @@
 #include <allegro5/allegro_font.h>
 #include <allegro5/allegro_ttf.h>
 #include <stdio.h>
-#include "main.h"
-#include "game_base_daryl.h"
-#include "game_base_zombie.h"
-#include "table.h"
-#include "game_bitmaps.h"
-#include "menu_base.h"
+#include "headers/main.h"
+#include "headers/game_base_daryl.h"
+#include "headers/game_base_zombie.h"
+#include "headers/table.h"
+#include "headers/game_bitmaps.h"
+#include "headers/menu_base.h"
 
 void load_game_bitmaps()
 {

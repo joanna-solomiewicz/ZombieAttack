@@ -5,8 +5,8 @@
 #include <string.h>
 #include <errno.h>
 #include <stdlib.h>
-#include "main.h"
-#include "base.h"
+#include "headers/main.h"
+#include "headers/base.h"
 
 void load_lib()
 {

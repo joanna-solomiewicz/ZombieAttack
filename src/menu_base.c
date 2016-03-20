@@ -2,8 +2,8 @@
 #include <allegro5/allegro_font.h>
 #include <allegro5/allegro_ttf.h>
 #include <allegro5/allegro_native_dialog.h>
-#include "main.h"
-#include "menu_base.h"
+#include "headers/main.h"
+#include "headers/menu_base.h"
 
 void theme() {
     al_clear_to_color(al_map_rgb(0,0,0));

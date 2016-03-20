@@ -1,6 +1,6 @@
 #include <stdlib.h>
-#include "game_base_daryl.h"
-#include "list.h"
+#include "headers/game_base_daryl.h"
+#include "headers/list.h"
 
 void list_add(struct character *name)
 {

@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/game.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/game_base_daryl.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/menu.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/table.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/menu_base.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/base.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/game_base_zombie.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/menu.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/menu_base.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/table.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/game.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/list.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/game_bitmaps.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/main.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/fill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/game_base_zombie.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/game_base_daryl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/headers/base.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/fill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/game_bitmaps.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.3.0/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.3.0/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.3.0/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.3.0/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

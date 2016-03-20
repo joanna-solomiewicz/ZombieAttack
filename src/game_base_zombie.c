@@ -1,12 +1,12 @@
 #include <allegro5/allegro.h>
 #include <stdlib.h>
-#include "game.h"
-#include "main.h"
-#include "table.h"
-#include "list.h"
-#include "game_bitmaps.h"
-#include "game_base_daryl.h"
-#include "game_base_zombie.h"
+#include "headers/game.h"
+#include "headers/main.h"
+#include "headers/table.h"
+#include "headers/list.h"
+#include "headers/game_bitmaps.h"
+#include "headers/game_base_daryl.h"
+#include "headers/game_base_zombie.h"
 
 void create_zombie()
 {

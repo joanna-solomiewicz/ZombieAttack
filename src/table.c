@@ -1,8 +1,8 @@
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_primitives.h>
-#include "main.h"
-#include "game_bitmaps.h"
-#include "table.h"
+#include "headers/main.h"
+#include "headers/game_bitmaps.h"
+#include "headers/table.h"
 
 void start_table()
 {

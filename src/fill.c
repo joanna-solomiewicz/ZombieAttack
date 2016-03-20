@@ -1,8 +1,8 @@
-#include "game.h"
-#include "game_base_daryl.h"
-#include "table.h"
-#include "list.h"
-#include "fill.h"
+#include "headers/game.h"
+#include "headers/game_base_daryl.h"
+#include "headers/table.h"
+#include "headers/list.h"
+#include "headers/fill.h"
 
 void fill()
 {

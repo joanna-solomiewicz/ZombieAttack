@@ -1,9 +1,9 @@
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_font.h>
-#include "main.h"
-#include "game.h"
-#include "menu_base.h"
-#include "menu.h"
+#include "headers/main.h"
+#include "headers/game.h"
+#include "headers/menu_base.h"
+#include "headers/menu.h"
 
 void menu()
 {

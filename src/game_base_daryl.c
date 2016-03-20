@@ -3,13 +3,13 @@
 #include <allegro5/allegro_ttf.h>
 #include <allegro5/allegro_native_dialog.h>
 #include <stdio.h>
-#include "main.h"
-#include "table.h"
-#include "menu_base.h"
-#include "game.h"
-#include "fill.h"
-#include "game_bitmaps.h"
-#include "game_base_daryl.h"
+#include "headers/main.h"
+#include "headers/table.h"
+#include "headers/menu_base.h"
+#include "headers/game.h"
+#include "headers/fill.h"
+#include "headers/game_bitmaps.h"
+#include "headers/game_base_daryl.h"
 
 struct character *create_player()
 {

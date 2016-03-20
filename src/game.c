@@ -1,14 +1,14 @@
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_font.h>
 #include <stdio.h>
-#include <ctime>
-#include "main.h"
-#include "table.h"
-#include "game_base_daryl.h"
-#include "game_base_zombie.h"
-#include "game_bitmaps.h"
-#include "list.h"
-#include "game.h"
+#include <time.h>
+#include "headers/main.h"
+#include "headers/table.h"
+#include "headers/game_base_daryl.h"
+#include "headers/game_base_zombie.h"
+#include "headers/game_bitmaps.h"
+#include "headers/list.h"
+#include "headers/game.h"
 
 void game()
 {
